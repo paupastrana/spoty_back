@@ -37,6 +37,8 @@ const AMPLIFY_FRONTEND_URL = 'https://main.d122hi02mt987d.amplifyapp.com';
 const ALLOWED_ORIGINS = [
   'https://main.d122hi02mt987d.amplifyapp.com', // Producción (Amplify)
   'http://localhost:3001', // Desarrollo local (el puerto que estás usando)
+  'https://spotymusicpau.online',
+  'https://www.spotymusicpau.online'
   // Agrega otros puertos si usas Vue, Angular, etc. (ej: 'http://localhost:8080')
 ]; 
 
